@@ -1,4 +1,4 @@
 # My first blog
 Blog created with Python and Django during Django Girls Madrid workshop. 
 
-http://soraya.pythonanywhere.com
+<a href="http://soraya.pythonanywhere.com" target="_blank">soraya.pythonanywhere.com</a>
